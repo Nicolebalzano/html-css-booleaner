@@ -1,0 +1,38 @@
+.bg-header {
+    background-color: rgb(78, 160, 255);
+    background-image: url('../img/pattern.png');
+    background-repeat: cover;
+    background-size:20%;
+}
+.logo{
+    width: 15%;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+h1 {
+    font-weight: 900;
+    font-size: 27px;
+}
+.the-booleaner-link {
+    text-decoration: none;
+    font-weight: 300;
+    color: rgb(78, 160, 255);
+}
+.author {
+    margin-top: 0px;
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    color: rgb(128, 128, 128);
+    font-size: 15px;
+}
+time {
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+}
+figcaption {
+    font-size: 10px;
+}
