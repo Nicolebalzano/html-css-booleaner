@@ -9,11 +9,17 @@
     width: 15%;
     margin-top: 3%;
     margin-left: 2%;
+} 
+
+/* container */
+.container{
+    margin-left: 10%;
+    margin-right:10%;
 }
 /* main */
 .titolo-articolo {
     font-weight: 900;
-    font-size: 37px;
+    font-size: 35px;
     margin-bottom: 0;
 }
 .author {
@@ -38,6 +44,10 @@ time {
     font-size: 10px;
     margin: 0;
     padding: 0;
+}
+.tim {
+    width: 45%;
+    height: 300px;
 }
 figcaption {
     font-size: 10px;
