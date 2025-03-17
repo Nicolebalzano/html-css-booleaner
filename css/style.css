@@ -1,3 +1,4 @@
+/* Header */
 .bg-header {
     background-color: rgb(78, 160, 255);
     background-image: url('../img/pattern.png');
@@ -9,7 +10,8 @@
     margin-top: 3%;
     margin-left: 2%;
 }
-h1 {
+/* main */
+.titolo-articolo {
     font-weight: 900;
     font-size: 27px;
 }
@@ -44,16 +46,32 @@ figcaption {
    padding-inline-start: 0;
    margin-left: 0;
 }
+table {
+    border-collapse: collapse;
+}
 thead {
     background-color:rgb(32, 169, 229) ;
     color: white;
 }
-.bg-table {
-   background-color: rgb(177, 229, 242);;
+th {
+    width: 25%;
 }
+.bg-table {
+   background-color: rgb(177, 229, 242);
+}
+/* Footer */
 .title-footer {
     color: rgb(128, 128, 128); ;
 }
 .footer-img {
 width: 20%;
+}
+.img-text {
+    font-size: 20px;
+    position: absolute; /* Posizione assoluta per il testo */
+    color: white; /* Colore del testo */
+   margin-top: 10px;
+   margin-left: 7px;
+   text-decoration: solid;
+   font-weight: bold;
 }
