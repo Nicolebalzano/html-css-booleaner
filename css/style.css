@@ -40,3 +40,7 @@ figcaption {
     background-color: rgb(255, 255, 0);
    font-weight: 400;
 }
+.unordered-list {
+   padding-inline-start: 0;
+   margin-left: 0;
+}
