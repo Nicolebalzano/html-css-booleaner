@@ -13,22 +13,25 @@
 /* main */
 .titolo-articolo {
     font-weight: 900;
-    font-size: 27px;
-}
-.the-booleaner-link {
-    text-decoration: none;
-    font-weight: 300;
-    color: rgb(78, 160, 255);
+    font-size: 37px;
+    margin-bottom: 0;
 }
 .author {
     margin-top: 0px;
     margin: 0;
     padding: 0;
-    margin-top: 5px;
     margin-bottom: 0px;
     text-decoration: none;
     color: rgb(128, 128, 128);
     font-size: 15px;
+}
+.spazio-author{
+margin: 0;
+}
+.the-booleaner-link {
+    text-decoration: none;
+    font-weight: 300;
+    color: rgb(78, 160, 255);
 }
 time {
     font-size: 10px;
