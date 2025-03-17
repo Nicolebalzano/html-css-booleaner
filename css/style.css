@@ -44,3 +44,16 @@ figcaption {
    padding-inline-start: 0;
    margin-left: 0;
 }
+thead {
+    background-color:rgb(32, 169, 229) ;
+    color: white;
+}
+.bg-table {
+   background-color: rgb(177, 229, 242);;
+}
+.title-footer {
+    color: rgb(128, 128, 128); ;
+}
+.footer-img {
+width: 20%;
+}
