@@ -36,3 +36,7 @@ time {
 figcaption {
     font-size: 10px;
 }
+.highlight {
+    background-color: rgb(255, 255, 0);
+   font-weight: 400;
+}
