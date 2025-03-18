@@ -13,8 +13,8 @@
 
 /* container */
 .container{
-    margin-left: 10%;
-    margin-right:10%;
+   width: 50%;
+   margin: 0 auto;
 }
 /* main */
 .titolo-articolo {
@@ -46,8 +46,7 @@ time {
     padding: 0;
 }
 .tim {
-    width: 45%;
-    height: 300px;
+    width: 200px;
 }
 figcaption {
     font-size: 10px;
